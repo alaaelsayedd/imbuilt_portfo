@@ -58,10 +58,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "imbuilt_porto:build:production"
+              "buildTarget": "imbuilt_portfo:build:production"
             },
             "development": {
-              "buildTarget": "imbuilt_porto:build:development"
+              "buildTarget": "imbuilt_portfo:build:development"
             }
           },
           "defaultConfiguration": "development"
